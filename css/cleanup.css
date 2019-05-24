@@ -4,5 +4,5 @@
 }
 
 #wall .parent div[id^="tag-"] {
-  z-index: 0
+  display:none;
 }
