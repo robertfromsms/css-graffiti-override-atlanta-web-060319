@@ -3,6 +3,6 @@
   z-index: 0
 }
 
-#wall > .parent div[id^="tag_"] {
+#wall > .parent div[id^="tag-"] {
   z-index: 0
 }
