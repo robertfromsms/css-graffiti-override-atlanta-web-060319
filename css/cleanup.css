@@ -3,6 +3,6 @@
   z-index: 0
 }
 
-#wall [id^="tag-"] {
+#wall .parent [id^="tag-"] {
   z-index: 0
 }
