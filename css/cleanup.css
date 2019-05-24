@@ -2,3 +2,7 @@
 #wall > div {
   z-index: 0
 }
+
+#wall > .parent div {
+  z-index: 0
+}
