@@ -1,8 +1,8 @@
 /* write your override styles here */
 #wall > div {
-  z-index: 0
+  display:none;
 }
 
-#wall .parent [id^="tag-"] {
+#wall .parent div[id^="tag-"] {
   z-index: 0
 }
