@@ -3,6 +3,6 @@
   display:none;
 }
 
-#wall .parent div[id^="tag-"] {
+#wall .parent [id^="tag-"] div {
   display:none;
 }
